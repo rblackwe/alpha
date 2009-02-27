@@ -1,0 +1,15 @@
+
+
+This is a Proof of concept.
+
+You will need to install greasemonkey.
+http://greasemonkey.mozdev.org/
+
+Then install my script from
+http://www.robertblackwell.com/grease/ispair/
+
+it is ispair.user.js
+
+
+Now you will get an alert box if you surf to something pair hosted.
+
